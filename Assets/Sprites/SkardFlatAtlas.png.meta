@@ -1,0 +1,970 @@
+fileFormatVersion: 2
+guid: cef15b3b3ff68f348b4866f3399e2c9d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SkardFlatAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 184
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de02bfe4fc50df84ca0889ee3b86efb0
+      internalID: -829251063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 368
+        width: 129
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290a0bacc281b824cb4d1aabe8d8b076
+      internalID: 700457476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 394
+        width: 83
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41daaeac6a2dde042bc9504725d04bc4
+      internalID: -1108639046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 423
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2360092e4efa65a41a856599d34f30cf
+      internalID: 738166646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 406
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c6e36abbfc6104ba177fe5b00bae94
+      internalID: 1364372095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 423
+        width: 120
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84dcf40f4dadbd4c8adab47381ea13d
+      internalID: -2121032452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 433
+        width: 120
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee38013a9751d5468416e2b5aba1d3d
+      internalID: 1225604324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 476
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279d7655b2f95de4d82cefaa1683d663
+      internalID: -1948673919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 435
+        width: 37
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52d699e16bd99d43a5b1149d1722460
+      internalID: 1977889922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 466
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcd4cfca20b81b43b056f8ab7250ad7
+      internalID: 860170287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 452
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1443efcfb3ae1049a61d45e05f60749
+      internalID: -1283833243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 165
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054435ce4045e474ea46ea8bb8228382
+      internalID: -1825664983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 244
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b99fa86f83f1e489aee7c810e065c3
+      internalID: 981543217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 271
+        width: 120
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3432226e1e857df4e950651115873b7c
+      internalID: -32267071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 303
+        width: 39
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7a7b7c95454fa408a52ff60294e660
+      internalID: -795990649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 303
+        width: 39
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f0ee281a6cb2145929169530482022
+      internalID: 1267609093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 293
+        width: 150
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b80c9232b37904abd0c0247f58d973
+      internalID: 1850147346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 284
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8feb623dabd9c4bb7e093467ef1474
+      internalID: 1556751544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 124
+        width: 118
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dd103081450284d8d719b638c9c635
+      internalID: -412702184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 147
+        width: 108
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a574cbb2807fdf4caee1e19c2fdabd0
+      internalID: -478772817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 215
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2a746df3c4bf848b66ec32f3bcbe2e
+      internalID: -903382845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 208
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e58e1cc8d41024480e4e062c24e3df
+      internalID: 1565091221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 215
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d79b40cdfe807545a2a814c173c0bac
+      internalID: 399267508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 210
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824057c231687ba41801d72701281746
+      internalID: -2088859434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_24
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 151
+        width: 53
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d52d9d4e95320f468ea2cf5c46edd6f
+      internalID: -1762480956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_25
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 84
+        width: 59
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c1a6c9f93f01f4f99281ec08ff9533
+      internalID: 1546171077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_26
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 123
+        width: 38
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55636bff847eeb544bee0cf48f26ea85
+      internalID: 497960005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_27
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 168
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266b8eb92a27b6043b7c171297847e50
+      internalID: 1857611446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_28
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 144
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea7aa6c4ece81341bedf3459a1e52c5
+      internalID: 331935708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d392cfecdf669c4294c81d533ed8db0
+      internalID: 557835483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_30
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 32
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e3f23591b63fb4295b0b45b0901e6d
+      internalID: -855301200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_31
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 43
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17aede07e121cc4ca663177ccd5eb7f
+      internalID: 589090542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_32
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 18
+        width: 120
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651a1fbbb4f542b4ba2e4b521b8222c9
+      internalID: -1625489341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_33
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 23
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ade3fa8794ec134488f60d03adc48a6
+      internalID: 397315146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_34
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 84
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18d268e89611fc49ab4a06d276e8826
+      internalID: 159480731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_35
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 30
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117181b1e10aa7f409c82e3d2d453229
+      internalID: 1240873049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_36
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 23
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037786014691277489d1c210a124eab5
+      internalID: -529572362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491d5c2f5d587e14a910c36b603c32c8
+      internalID: -334934819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SkardFlatAtlas_4: 1364372095
+      SkardFlatAtlas_21: 1565091221
+      SkardFlatAtlas_20: -903382845
+      SkardFlatAtlas_22: 399267508
+      SkardFlatAtlas_28: 331935708
+      SkardFlatAtlas_15: 1267609093
+      SkardFlatAtlas_18: -412702184
+      SkardFlatAtlas_36: -529572362
+      SkardFlatAtlas_35: 1240873049
+      SkardFlatAtlas_30: -855301200
+      SkardFlatAtlas_7: -1948673919
+      SkardFlatAtlas_1: 700457476
+      SkardFlatAtlas_33: 397315146
+      SkardFlatAtlas_13: -32267071
+      SkardFlatAtlas_11: -1825664983
+      SkardFlatAtlas_8: 1977889922
+      SkardFlatAtlas_9: 860170287
+      SkardFlatAtlas_3: 738166646
+      SkardFlatAtlas_26: 497960005
+      SkardFlatAtlas_23: -2088859434
+      SkardFlatAtlas_17: 1556751544
+      SkardFlatAtlas_24: -1762480956
+      SkardFlatAtlas_25: 1546171077
+      SkardFlatAtlas_29: 557835483
+      SkardFlatAtlas_32: -1625489341
+      SkardFlatAtlas_0: -829251063
+      SkardFlatAtlas_27: 1857611446
+      SkardFlatAtlas_10: -1283833243
+      SkardFlatAtlas_2: -1108639046
+      SkardFlatAtlas_14: -795990649
+      SkardFlatAtlas_6: 1225604324
+      SkardFlatAtlas_12: 981543217
+      SkardFlatAtlas_19: -478772817
+      SkardFlatAtlas_34: 159480731
+      SkardFlatAtlas_31: 589090542
+      SkardFlatAtlas_16: 1850147346
+      SkardFlatAtlas_5: -2121032452
+      SkardFlatAtlas_37: -334934819
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
