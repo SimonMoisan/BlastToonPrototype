@@ -201,6 +201,7 @@ MonoBehaviour:
   - {r: 0.25, g: 0.5970589, b: 1, a: 1}
   - {r: 0.9428828, g: 1, b: 0.25, a: 1}
   - {r: 0.3935207, g: 1, b: 0.25, a: 1}
+  - {r: 1, g: 0.25098038, b: 0.8724109, a: 1}
   gridBoxPrefab: {fileID: 7098973023181424876, guid: b8a1a033657fdf143b023430a3e2235d, type: 3}
   blockPrefab: {fileID: 7098973023181424876, guid: f3dc22f38f2087245b7d016dc5e87ed0, type: 3}
   gridRows: []
